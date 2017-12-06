@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">地理データ</string>
+    <string name="btn_busca">リスト</string>
+    <string name="lblContinente">大陸: </string>
+    <string-array name="continentes">
+        <item>すべて</item>
+        <item>アフリカ</item>
+        <item>アメリカ大陸</item>
+        <item>アジア</item>
+        <item>ヨーロッパ</item>
+        <item>オセアニア</item>
+    </string-array>
+    <string name="lbl_codigo3">アルファ3コード: </string>
+    <string name="lbl_capital">首都: </string>
+    <string name="lbl_regiao">地域: </string>
+    <string name="lbl_subregiao">小領域: </string>
+    <string name="lbl_demonimo">デモニム: </string>
+    <string name="lbl_populacao">人口: </string>
+    <string name="lbl_area">エリア: </string>
+    <string name="lbl_gini">ジニー: </string>
+    <string name="lbl_latitude">緯度: </string>
+    <string name="lbl_longitude">経度: </string>
+    <string name="msg_rede">"非アクティブネットワーク。 ローカルストレージを使用する。"</string>
+</resources>
